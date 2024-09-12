@@ -1,7 +1,5 @@
 # Aprendendo Python
 
-## O que irei fazer?
-
 Prazer, me chamo Gamaliel e recentemente comecei a gerar uma vontade em aprender Python, mas não somente aprender por aprender (até porque faço curso de Data Science), mas também para acelerar um pouco o processo, pois sei que ainda terei essa materia na minha faculdade.
 
 ### O que ira acontecer?
