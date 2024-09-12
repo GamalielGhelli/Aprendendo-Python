@@ -13,6 +13,7 @@ da mesma forma que me ajudarão no estudo,eu também ajudarei, oferencendo este 
 - Dentro de cada tópico terá um aquivo readme, onde colocarei as expplicações
 
 No mais... é isso. Qualquer coisa só me mandar menssagem no meu email:
-    -<gamaliel.ghelli25@gmail.com>
+    
+- <gamaliel.ghelli25@gmail.com>
 
 e também quem quiser fazer alguma alteração ou melhoria, estará disponível
